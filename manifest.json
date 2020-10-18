@@ -15,7 +15,7 @@
 		{
 			"matches": [
 				"https://github.com/stars",
-				"https://github.com/stars/",
+				"https://github.com/stars/*",
 				"https://github.com/stars?*"
 			],
 			"js": [
